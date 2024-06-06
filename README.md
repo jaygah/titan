@@ -110,3 +110,17 @@ lms:
   cd /var/www/titanmates.com/app/apps/lms
   pm2 start ./index.js --name titan-lms
 ```
+
+## Documentation and resources
+
+- [How To Create a New User and Grant Permissions in MySQL | Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql)
+
+- [MySQL Backup & Restore | Medium](https://medium.com/@adnanitdev/mysql-backup-and-restore-ee146c31c696)
+
+- [Introspection | Prisma Documentation](https://www.prisma.io/docs/getting-started/setup-prisma/add-to-existing-project/relational-databases/introspection-typescript-mysql)
+
+- [Baseline the Database | Prisma Documentation](https://www.prisma.io/docs/getting-started/setup-prisma/add-to-existing-project/relational-databases/baseline-your-database-typescript-mysql)
+
+- [Install Prisma Client | Prisma Documentation](https://www.prisma.io/docs/getting-started/setup-prisma/add-to-existing-project/relational-databases/install-prisma-client-typescript-mysql)
+
+- [Start & Manage an app | PM2 Documentation](https://pm2.keymetrics.io/docs/usage/quick-start/)
